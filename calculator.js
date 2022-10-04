@@ -1,25 +1,25 @@
-function Calculator(){
+function Sum(){
     
     console.log("Calculating");
     let num1 = Number(prompt("Enter num1:"));
     let num2 = Number(prompt("Enter num2:"));
     sum(num1,num2);   
 }
-function Calculator(){
+function Multiply(){
     
     console.log("Calculating");
     let num1 = Number(prompt("Enter num1:"));
     let num2 = Number(prompt("Enter num2:"));
     mult(num1,num2);   
 }
-function Calculator(){
+function Divide(){
     
     console.log("Calculating");
     let num1 = Number(prompt("Enter num1:"));
     let num2 = Number(prompt("Enter num2:"));
     div(num1,num2);   
 }
-function Calculator(){
+function Subtract(){
     
     console.log("Calculating");
     let num1 = Number(prompt("Enter num1:"));
